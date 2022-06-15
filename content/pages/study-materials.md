@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This scetion provides information on journals and databases used as study
+  materials for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

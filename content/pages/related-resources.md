@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to digital libraries and other useful web
+  sites.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
