@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This scetion provides information on journals and databases used as study
+  materials for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: c2681230-8de1-86a8-a549-650a2c904678
 ---

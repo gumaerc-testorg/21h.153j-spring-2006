@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to digital libraries and other useful web
+  sites.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 52626af6-094a-d9b5-4118-6c8c188a946e
 ---

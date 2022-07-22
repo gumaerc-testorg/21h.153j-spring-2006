@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, attendance, extensions, and the schedule of course topics
+  and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ce35ecc3-79bc-69ab-58f4-34457d0f5317
 ---
