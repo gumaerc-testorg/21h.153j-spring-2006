@@ -13,18 +13,18 @@ The information in this section was mostly compiled by the humanities librarians
 Digital Libraries
 -----------------
 
-[Making of America](https://quod.lib.umich.edu/m/moagrp/) (University of Michigan and Cornell University)  
+{{% resource_link "a7d5bd07-d38d-46b2-b48c-c16b6fd6c8b8" "Making of America" %}} (University of Michigan and Cornell University)  
 A digital library of primary sources in American history from the antebellum period through reconstruction.
 
-[American Memory: Historical Collections for the National Digital Library](http://memory.loc.gov/ammem/) (Library of Congress)
+{{% resource_link "435957bd-c848-4372-b58e-23f687f51015" "American Memory: Historical Collections for the National Digital Library" %}} (Library of Congress)
 
 Other Useful Web Sites
 ----------------------
 
-[American Community Survey](https://www.census.gov/programs-surveys/acs/)  (U.S. Census Bureau)
+{{% resource_link "f177000f-cab3-4739-97cc-694794efef37" "American Community Survey" %}}  (U.S. Census Bureau)
 
-[Association for Asian American Studies](http://www.aaastudies.org/)
+{{% resource_link "562bc08d-9011-42d4-b086-b38b03370ffc" "Association for Asian American Studies" %}}
 
-[The Institute for Asian American Studies](http://www.iaas.umb.edu/) (University of Massachusetts Boston)
+{{% resource_link "8e91397b-08e9-42a0-9b73-e08861638de2" "The Institute for Asian American Studies" %}} (University of Massachusetts Boston)
 
-[Asian American Studies Center](http://www.aasc.ucla.edu/default.asp) (University of California, Los Angeles)
+{{% resource_link "7630b04d-5c3c-4f3d-95ae-0c4feb075bc5" "Asian American Studies Center" %}} (University of California, Los Angeles)
