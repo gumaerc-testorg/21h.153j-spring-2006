@@ -12,7 +12,7 @@ This course makes use of Athena, MIT's UNIX-based computing environment. OCW doe
 
 The information in this section was compiled by the humanities librarians of MIT Libraries.
 
-Please see a reference librarian. You may also consult the MIT libraries {{% resource_link "7932d16f-7332-4529-8d3a-2fbdcc86aec6" "Information Navigator: A self-help guide to quailty information" %}}.
+Please see a reference librarian. You may also consult the MIT libraries [Information Navigator: A self-help guide to quailty information](http://libraries.mit.edu/multi/research-guides.html).
 
 Journals
 --------
